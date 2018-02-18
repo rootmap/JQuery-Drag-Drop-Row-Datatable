@@ -76,7 +76,8 @@ tr{
 
 </script>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css">
-<script src="datatable-lib/draw-table/datatables/assets/lib/js/jquery.dataTables.min.js?v=v1.2.3"></script>
+<script src='https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js' type="text/javascript"></script>
+
 <script src="datatable-lib/draw-table/js/jquery.tablednd.js" type="text/javascript"></script>
 
 </body>
